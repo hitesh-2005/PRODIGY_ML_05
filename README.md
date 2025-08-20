@@ -1,4 +1,4 @@
-# 🍕🥗 Food 101 Image Classification | Machine Learning Internship @ Prodigy Infotech
+# 🍕🥗 Food 101 Image Classification 
 
 This project focuses on building a deep learning image classifier to identify types of food from images using the popular **Food-101** dataset. The task highlights the real-world application of computer vision in the food industry, health tech, and mobile apps.
 
@@ -18,8 +18,8 @@ The dataset contains labeled images of popular dishes, making it ideal for evalu
 
 ## 📦 Project Structure
 
-PRODIGY_ML_05/
-├── Prodigy05.ipynb # Main Jupyter notebook for training and evaluation
+Food_101_ImageClass/
+├── Food_101_ImageClass.ipynb # Main Jupyter notebook for training and evaluation
 ├── food-101/ # Root dataset directory after extraction
 │ ├── images/ # Subfolders by food category
 │ ├── meta/
@@ -51,7 +51,7 @@ Edit
 ## 🚀 How to Run
 
 1. **Download** the dataset and extract into the `food-101/` folder.
-2. **Open** `Prodigy05.ipynb`.
+2. **Open** `Food_101_ImageClass.ipynb`.
 3. **Run all cells** to:
    - Load and preprocess images
    - Build and compile the CNN model
