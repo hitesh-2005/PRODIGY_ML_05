@@ -1,5 +1,4 @@
-# PRODIGY_ML_05
-# 🍕🥗 Task 5 – Food 101 Image Classification | Machine Learning Internship @ Prodigy Infotech
+# 🍕🥗 Food 101 Image Classification | Machine Learning Internship @ Prodigy Infotech
 
 This project focuses on building a deep learning image classifier to identify types of food from images using the popular **Food-101** dataset. The task highlights the real-world application of computer vision in the food industry, health tech, and mobile apps.
 
